@@ -1,0 +1,6 @@
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615601640) (09:24:00 13/03/2021)
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615601647) (09:24:07 13/03/2021)
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615601653) (09:24:13 13/03/2021)
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615601654) (09:24:14 13/03/2021)
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615601656) (09:24:16 13/03/2021)
+27.65.209.188(admin)--query--tables(delete from table_user_online where time < 1615602209) (09:33:29 13/03/2021)

@@ -1,0 +1,4 @@
+::1()--query--tables(delete from table_user_online where time < 1681354200) (10:00:00 13/04/2023)
+::1(admin)--update--setting([["","id","=","18"]]) (10:00:48 13/04/2023)
+::1(admin)--query--tables(delete from table_seo where idmuc =  and com = 'setting' and act = 'capnhat' and type = 'setting') (10:00:48 13/04/2023)
+::1(admin)--insert--seo(1301) (10:00:48 13/04/2023)

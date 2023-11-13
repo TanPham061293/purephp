@@ -1,0 +1,8 @@
+::1(admin)--query--tables(delete from table_user_online where time < 1685329440) (10:14:00 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329441) (10:14:01 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329442) (10:14:02 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329442) (10:14:02 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329443) (10:14:03 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329443) (10:14:03 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329444) (10:14:04 29/05/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1685329444) (10:14:04 29/05/2023)

@@ -1,0 +1,1 @@
+<div class="mybreadcrumb"><?=$breadcrumbs?></div>
